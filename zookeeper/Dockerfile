@@ -1,3 +1,3 @@
-FROM confluentinc/cp-zookeeper:7.3.2
+FROM bitnami/zookeeper:latest
 
 EXPOSE 2181
